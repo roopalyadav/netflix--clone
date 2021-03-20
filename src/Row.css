@@ -1,6 +1,8 @@
 .row{
     margin-left: 20px;
+    margin-top: 3px;
     color: white;
+    
 }
 
 .row__poster
@@ -35,6 +37,7 @@
     display: flex;
     overflow-x: scroll;
     overflow-y: hidden;
+    
     
    
 }
